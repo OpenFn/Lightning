@@ -44,7 +44,7 @@ docker compose up
 
 ## Contributing
 
-We appreciate any contribution to Lightning.
+We appreciate every contribution to Lightning.
 
 ### Setting up locally
 
